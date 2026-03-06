@@ -202,10 +202,10 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## Random Dev Quote
+## Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20torture%20the%20data%20long%20enough%2C%20I%20will%20confess%20to%20anything&author=Ronald%20Coase" alt="Dev Quote" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
