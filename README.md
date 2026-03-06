@@ -138,14 +138,14 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 ## GitHub Stats:
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=soltsega&theme=tokyonight&hide_border=true&border_radius=10" alt="Solomon's GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=soltsega&theme=tokyonight&hide_border=true&border_radius=10&v=1.1" alt="Solomon's GitHub Streak" />
 </div>
 
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=soltsega&theme=tokyo-night&hide_border=true&area=true&custom_title=Solomon's%20Contribution%20Graph" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=soltsega&theme=tokyo-night&hide_border=true&area=true&custom_title=Solomon's%20Contribution%20Graph&v=1.1" alt="Activity Graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
