@@ -174,7 +174,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 |---------|-------------|
 | **[Financial Inclusion Forecasting](https://github.com/soltsega/Forecasting-Financial-Inclusion-in-Ethiopia)** | Time-series forecasting system tracking Ethiopia's digital financial transformation |
 | **[Change Point Analysis & Statistical Modeling](https://github.com/soltsega/Change-Point-Analysis-and-Statistical-Modeling-of-Time-Series-Data)** | Detecting changes and associating causes on time series data |
-| **[Insurance Analysis (KAIM)](https://github.com/soltsega/KIAM_Week_3_Insurance_analysis)** | Data analysis and statistical modeling on insurance data |
+| **[Insurance Analysis (KAIM)](https://github.com/soltsega/Insurance-analysis)** | Data analysis and statistical modeling on insurance data |
 
 </details>
 
