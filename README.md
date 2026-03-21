@@ -196,7 +196,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 |---------|-------------|
 | **[Arat Kilo Community Hub](https://github.com/soltsega/Arat-Kilo-Gbi-Gubae-Community-Hub)** | Python-powered pipeline with glassmorphism dashboard for Telegram quiz results & community rankings |
 | **[Universal Chronos Bridge](https://github.com/soltsega/-The-Universal-Chronos-Bridge)** | Unified C++ synchronization engine supporting Gregorian, Ethiopian, Islamic Hijri & Sidama calendars |
-| **[Portfolio Website](https://github.com/soltsega/My_Portfolio)** | Personal portfolio site showcasing projects and skills |
+| **[Portfolio Website](https://github.com/soltsega/my_portfolio_website)** | Personal portfolio site showcasing projects and skills |
 
 </details>
 
