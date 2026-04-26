@@ -25,7 +25,7 @@ Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Ja
 
 How to reach me: **[tsegasolomon538@gmail.com](mailto:tsegasolomon538@gmail.com)**
 
-Fun fact: **I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
+>>**I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
