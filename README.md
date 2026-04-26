@@ -23,7 +23,7 @@ I'm looking for help with **Expanding my network and discovering exciting opport
 
 Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Java, dbt**
 
-  >**I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
+  >**I find real dopamine when I lock in and drain my energy into work - a kind of man who is addict of keyboard!**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
